@@ -3,6 +3,7 @@ node_modules/
 
 # Ignore environment variables
 .env
+package-lock.json
 
 # Ignore logs
 logs/
